@@ -1,0 +1,9 @@
+:80 {
+    reverse_proxy app1:3001 {
+        lb_policy round_robin
+    }
+    reverse_proxy app2:3001 {
+        lb_policy round_robin
+    }
+}
+
