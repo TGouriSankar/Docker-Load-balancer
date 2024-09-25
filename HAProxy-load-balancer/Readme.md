@@ -1,6 +1,6 @@
 # 🚀 HAProxy Load Balancer for Docker Containers
 
-![HAProxy Logo](https://www.haproxy.com/wp-content/uploads/2020/05/haproxy-logo.png)
+![HAProxy Logo](https://www.ochobitshacenunbyte.com/wp-content/uploads/2019/12/logo-haproxy.png)
 
 ## 📦 Overview
 
