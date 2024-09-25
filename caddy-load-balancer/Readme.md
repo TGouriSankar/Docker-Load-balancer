@@ -1,6 +1,6 @@
 # 🚀 Caddy Load Balancer for Docker Containers
 
-![Caddy Logo](https://caddyserver.com/api/logo.svg)
+![Caddy Logo](https://media-exp1.licdn.com/dms/image/D4D12AQETgYlQ1uYutA/article-cover_image-shrink_720_1280/0/1667921877150?e=2147483647&v=beta&t=RpxyAlWN3z9KgSpzUXrwdCUquLAUGpejqopIhDuYYEM)
 
 ## 📦 Overview
 
