@@ -29,5 +29,16 @@ This repository demonstrates how to set up **HAProxy** as a load balancer for Do
    cd haproxy-load-balancer
 
 2. **Run the Load Balancer:**
+- Ensure Docker and Docker Compose are installed, then run:
+
+        docker-compose up -d
+3.Access Your Application:
+
+> Open your browser and navigate to http://localhost to access your application through the HAProxy load balancer.
+
+📜 License
+
+This project is licensed under the MIT License.
+
 
 
