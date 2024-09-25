@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  app1:
+    image: thunderboltfrontend:v2aug19
+    ports:
+      - "3001:3001"
+
+  app2:
+    image: thunderboltfrontend:v2aug19
+    ports:
+      - "3002:3001"
+
+  haproxy:
+    image: haproxy:latest
+    volumes:
+      - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg
+    ports:
+      - "80:80"
+    depends_on:
+      - app1
+      - app2
+
