@@ -40,4 +40,5 @@ Load balancing is the process of distributing network traffic across multiple se
 📜 License
 
 This project is licensed under the MIT License.
+[link](https://github.com/TGouriSankar/Docker-Load-balancer/blob/main/LICENSE)
 
